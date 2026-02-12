@@ -15,7 +15,6 @@ body{
 .form{
     width: 80%;
     max-width: 32rem;
-    /*background-color: white;*/
     background-image: linear-gradient(to right, rgba(0,0,0, .3) .5rem, white .5rem);
 }
 
@@ -93,4 +92,5 @@ body{
 .form__action__aside a{
     text-decoration: none;
     color: red;
+
 }
